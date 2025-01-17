@@ -36,7 +36,7 @@
 #include "argparse.h"
 #include "debug.h"
 #include "strutils.h"
-
+#include <cstdint>
 
 namespace ar
 {
