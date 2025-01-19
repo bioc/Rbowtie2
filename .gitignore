@@ -35,7 +35,7 @@ vignettes/*.pdf
 
 # MacOS file
 src/.DS_Store
-
+.DS_Store
 
 .Ruserdata
 
